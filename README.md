@@ -1,4 +1,0 @@
-threadmap
-=========
-
-Multi thread map
